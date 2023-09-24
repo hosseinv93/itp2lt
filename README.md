@@ -1,7 +1,7 @@
 # itp2lt
 Converting ITP file used in Gromacs to LT file used in Moltemplate
 
-## Script Usage Instructions: Converting Files from ITP to LT Format
+### Script Usage Instructions: Converting Files from ITP to LT Format
 To use this script for converting files from ITP format to LT format, follow these steps:
 
 1. Create a new folder and place the `ffnonbonded.itp` file from the Opls-aa forcefield directory in your Gromacs installation into this folder.
