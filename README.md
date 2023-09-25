@@ -1,5 +1,5 @@
 # itp2lt
-Converting ITP file used in Gromacs to LT file used in Moltemplate
+Converting ITP file used in GROMACS to LT file used in MOLTEMPLATE
 
 ### Script Usage Instructions: Converting Files from ITP to LT Format
 To use this script for converting files from ITP format to LT format, follow these steps:
